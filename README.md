@@ -5,54 +5,52 @@ A simple and interactive To-Do List Application built using HTML, CSS, and JavaS
 
 🚀 Features
 
+- Add new tasks
 
-Add new tasks
+- Mark tasks as completed
 
+- Delete tasks
 
-Mark tasks as completed
+- Responsive and clean UI
 
+- Real-time task management
 
-Delete tasks
+- Easy to use
 
-
-Responsive and clean UI
-
-
-Real-time task management
-
-
-Easy to use
 
 
 🛠️ Technologies Used
 
+- HTML5
 
-HTML5
+- CSS3
 
-
-CSS3
-
-
-JavaScript
+- JavaScript
 
 
 🎯 How It Works
 
 
-Enter a task in the input field.
+1. Enter a task in the input field.
 
 
-Click the Add button.
+2. Click the Add button.
 
 
-View tasks in the task list.
+3. View tasks in the task list.
 
 
-Mark tasks as completed or delete them when finished
+4. Mark tasks as completed or delete them when finished
+
 
 💡 Future Improvements
-Add task categories
-Add due dates and reminders
-Dark mode support
-Save tasks using Local Storage
-Drag and drop task sorting
+
+-> Add task categories
+
+-> Add due dates and reminders
+
+-> Dark mode support
+
+-> Save tasks using Local Storage
+
+->Drag and drop task sorting
